@@ -5,17 +5,17 @@ We've taken sample data from the libraries systems about borrowers (anonymised) 
 ## Supporting data
 There's a wide range of open data from other sources that we can use to mash up with libraries' own information. One example is the Indices of Multiple Deprivation (IMD) 2015 that we've combined with borrower data. Here a list of some of the data we think might be useful, to get the discussion started:
 Population, income and employment data from Open Data Communities 
--Claimant count and JSA - January 2017
--Indices of Multiple Deprivation 2015, LOSA level - Decile
--Land Registry House Price Index - December 2016
--Household projections to 2039
--Annual population survey - employment by occupation 2016
+- Claimant count and JSA - January 2017
+- Indices of Multiple Deprivation 2015, LOSA level - Decile
+- Land Registry House Price Index - December 2016
+- Household projections to 2039
+- Annual population survey - employment by occupation 2016
 Office for National Statistics
--Measuring national wellbeing https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures
--Use of public libraries (National Indicator NI 009)
+- [Measuring national wellbeing] (https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures)
+- Use of public libraries (National Indicator NI 009)
 Data you can 'walk' through ...
--Lidar survey data https://data.gov.uk/publisher/environment-agency
--[geocraft](http://github.com/cgutteridge/geocraft-master) - a repository of code to help you create your own Minecraft world using open Lidar data, by @cgutteridge
--A Minecraft world we made last year, based on Exeter Central Library 
+- Lidar survey data https://data.gov.uk/publisher/environment-agency
+- [geocraft](http://github.com/cgutteridge/geocraft-master) - a repository of code to help you create your own Minecraft world using open Lidar data, by @cgutteridge
+- A Minecraft world we made last year, based on Exeter Central Library 
 ## Contact
 Send a message to @jargonautical or raise an issue with your questions and comments. All feedback welcome!
