@@ -12,10 +12,11 @@ Population, income and employment data from Open Data Communities
 - Annual population survey - employment by occupation 2016
 Office for National Statistics
 - [Measuring national wellbeing] (https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures)
-- Use of public libraries (National Indicator NI 009)
+- [Use of public libraries (National Indicator NI 009)](https://data.gov.uk/dataset/ni-009-use-of-public-libraries)
 Data you can 'walk' through ...
-- Lidar survey data https://data.gov.uk/publisher/environment-agency
-- [geocraft](http://github.com/cgutteridge/geocraft-master) - a repository of code to help you create your own Minecraft world using open Lidar data, by @cgutteridge
-- A Minecraft world we made last year, based on Exeter Central Library 
+- [Lidar survey data](https://data.gov.uk/publisher/environment-agency)
+- [geocraft](http://github.com/cgutteridge/geocraft) - a repository of code to help you create your own Minecraft world using open Lidar data, by @cgutteridge
+- [A Minecraft world we made last year, based on Exeter Central Library](https://github.com/jargonautical/minecraft-discovery/blob/master/ExeterCathedral.zip)
+
 ## Contact
 Send a message to @jargonautical or raise an issue with your questions and comments. All feedback welcome!
