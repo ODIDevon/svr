@@ -18,8 +18,8 @@ There's a wide range of open data from other sources that we can use to mash up 
 
 ###Data you can 'walk' through ...
 - [Lidar survey data](https://data.gov.uk/publisher/environment-agency)
-- [geocraft](http://github.com/cgutteridge/geocraft) - a repository of code to help you create your own Minecraft world using open Lidar data, by @cgutteridge
+- [geocraft](http://github.com/cgutteridge/geocraft) - a repository of code to help you create your own Minecraft world using open Lidar data, by [@cgutteridge](http://github.com/cgutteridge)
 - [A Minecraft world ](https://github.com/jargonautical/minecraft-discovery/blob/master/ExeterCathedral.zip)we made last year, based on Exeter Central Library
 
 ## Contact
-Send a message to @jargonautical or raise an issue with your questions and comments. All feedback welcome!
+Send a message to [@jargonautical](http://github.com/jargonautical) or raise an issue with your questions and comments. All feedback welcome!
