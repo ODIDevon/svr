@@ -6,11 +6,10 @@ We've taken sample data from the libraries systems about borrowers (anonymised) 
 There's a wide range of open data from other sources that we can use to mash up with libraries' own information. One example is the Indices of Multiple Deprivation (IMD) 2015 that we've combined with borrower data. Here a list of some of the data we think might be useful, to get the discussion started:
 
 ###Population, income and employment data from Open Data Communities 
-- Claimant count and JSA - January 2017
-- Indices of Multiple Deprivation 2015, LSOA level - Decile
-- Land Registry House Price Index - December 2016
-- Household projections to 2039
-- Annual population survey - employment by occupation 2016
+- [Claimant count and JSA - January 2017](https://github.com/ODIDevon/svr/blob/master/other_data/labour-force%7Cunemployment%7Cclaimant-rate%7Cby-age.csv)
+- [Indices of Multiple Deprivation 2015, LSOA level - Decile](https://github.com/ODIDevon/svr/blob/master/other_data/societal-wellbeing%7Cimd%7Cindices.csv)
+- [Land Registry House Price Index - December 2016](https://github.com/ODIDevon/svr/blob/master/other_data/5218bf72-509e-436c-bc8a-c998d7f4451a.csv)
+- [Annual population survey - employment by occupation 2016](https://github.com/ODIDevon/svr/blob/master/other_data/labour-force%7Cemployment%7Ccount%7Cby-occupation.csv)
 
 ###Office for National Statistics
 - [Measuring national wellbeing] (https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures)
