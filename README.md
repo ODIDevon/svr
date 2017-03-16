@@ -11,7 +11,7 @@ There's a wide range of open data from other sources that we can use to mash up 
 - [Annual population survey - employment by occupation 2016](https://github.com/ODIDevon/svr/blob/master/other_data/labour-force%7Cemployment%7Ccount%7Cby-occupation.csv)
 
 ### Office for National Statistics
-- [Measuring national wellbeing] (https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures)
+- [Measuring national wellbeing](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeingdomainsandmeasures)
 - [Use of public libraries (National Indicator NI 009)](https://data.gov.uk/dataset/ni-009-use-of-public-libraries)
 
 ### Data you can 'walk' through ...
